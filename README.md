@@ -1,2 +1,2 @@
 # BreakingBad API
-API do Breaking sendo consumida com React e Axios
+API da série Breaking Bad sendo consumida com React e Axios, informando sobre os personagens e outras curiosidades.
